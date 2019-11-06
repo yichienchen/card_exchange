@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="uuid_spinner">
+        <item>none</item>
+        <item>find me</item>
+        <item>blood pressure</item>
+        <item>alert notification</item>
+        <item>heart rate</item>
+        <item>time</item>
+    </array>
+</resources>

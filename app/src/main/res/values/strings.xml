@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">card_exchange</string>
+    <string name="status_error_when_connecting">An error occurred when connecting to a device. Error Code</string>
+</resources>
